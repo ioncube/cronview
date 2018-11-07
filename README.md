@@ -12,7 +12,7 @@ the pull path as a parameter to the script.
 e.g.
 
 ```
-crontab -l | ./cronview
+crontab -l | ./cronview.pl
 ```
 
 
