@@ -7,7 +7,7 @@ does all the heavy lifting!
 
 To use, either pipe in the output of *crontab -l* to the script (with any params such as -u), 
 or if you happen to have a crontab stored as a file someplace, then again, either pipe or give
-the pull path as a parameter to the script.
+the full path as a parameter to the script.
 
 e.g.
 
